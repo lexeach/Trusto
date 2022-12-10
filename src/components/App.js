@@ -224,7 +224,7 @@ class App extends Component {
       
     }).then(async ()=>{
       this.setState({ txState: 'onTxHash' })
-      await this.state.ethSwap.methods.TokenToStable(tokenAmount).send({ from: this.state.account })        
+      await this.state.ethSwap.methods.swapToCoin(tokenAmount).send({ from: this.state.account })        
       .on('transactionHash', (hash) => {
         this.setState({ txState: 'onTxHash' })
         })
