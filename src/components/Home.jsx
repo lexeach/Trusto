@@ -17,8 +17,8 @@ function Home() {
     document.addEventListener('DOMContentLoaded', function (event) {
 
         var dataText = [
-             "Swap TRCT-USDT token.",
-            "TRUSTCOIN- Fully decentralised.",
+             "Swap YOUR COIN-USDT token.",
+            "YOUR COIN- Fully decentralised.",
             "Lower Transaction fee",
             "Instant Fund transfer to your wallet",
             "Select BNB smart chain mainnet in your wallet"
@@ -89,8 +89,8 @@ function Home() {
                 <div class="container">
                     <div class="banner_text_wthree
                         <div class="d-flex>
-                            <h1>Welcome to Trust Coin Swap </h1>
-                            <h2>swap TRCT token</h2>                                                  
+                            <h1>Welcome to YOUR COIN Swap </h1>
+                            <h2>swap YOUR COIN token</h2>                                                  
                         </div>
                         <div id="text" class="banner_text_w3ls my-md-5 my-3"></div>
                         <ul class="list-inline bnr_list_w3">
@@ -108,7 +108,7 @@ function Home() {
     
     <footer>
         <div class="cpy-right text-center py-4">
-            <p class="text-white">This is a decentralized swap application Designed by Trust Coin| All Right Reserved, Trust Coin or its Affiliates| 
+            <p class="text-white">This is a decentralized swap application Designed by YOUR COIN| All Right Reserved, YOUR COIN or its Affiliates| 
                 <a href="https://trustcoin.app"> .</a>
             </p>
         </div>
