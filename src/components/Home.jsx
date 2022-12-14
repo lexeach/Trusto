@@ -17,7 +17,7 @@ function Home() {
     document.addEventListener('DOMContentLoaded', function (event) {
 
         var dataText = [
-             "Swap TRCT-USDT token.",
+             "Swap "YOUR COIN"-USDT token.",
             "Trustless- Fully decentralised.",
             "Lower Transaction fee",
             "Instant Fund transafer to youe wallet",
@@ -90,7 +90,7 @@ function Home() {
                     <div class="banner_text_wthree
                         <div class="d-flex>
                             <h1>Welcome to Trust Coin Swap </h1>
-                            <h2>swap TRCT token</h2>                                                  
+                            <h2>swap "YOUR COIN" token</h2>                                                  
                         </div>
                         <div id="text" class="banner_text_w3ls my-md-5 my-3"></div>
                         <ul class="list-inline bnr_list_w3">
