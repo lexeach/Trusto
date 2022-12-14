@@ -21,7 +21,7 @@ function Home() {
             "YOUR COIN- Fully decentralised.",
             "Lower Transaction fee",
             "Instant Fund transfer to your wallet",
-            "Select BNB smart chain mainnet in your wallet"
+            "Select BNB smart chain testnet in your wallet"
 
 
        ];
