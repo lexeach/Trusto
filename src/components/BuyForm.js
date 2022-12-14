@@ -62,13 +62,13 @@ class BuyForm extends Component {
           <div className="input-group-append">
             <div className="input-group-text">
               {/* <img src={tokenLogo} height='32' alt=""/> */}
-              &nbsp; "YOUR COIN"
+              &nbsp; TRCT
             </div>
           </div>
         </div>
         <div className="mb-5">
           <span className="float-left text-muted">Exchange Rate</span>
-          <span className="float-right text-muted">1 USDT = { parseFloat((1 * this.props.priceStable )  / 10**18) }  "YOUR COIN"</span>
+          <span className="float-right text-muted">1 USDT = { parseFloat((1 * this.props.priceStable )  / 10**18) }  TRCT</span>
         </div>
         <button className="swapButton">SWAP!</button>
       </form>
