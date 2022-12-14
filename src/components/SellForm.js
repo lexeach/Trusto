@@ -43,7 +43,7 @@ class SellForm extends Component {
           <div className="input-group-append">
             <div className="input-group-text">
               {/* <img src={tokenLogo} height='32' alt=""/> */}
-              &nbsp; TRCT
+              &nbsp; YOUT COIN
             </div>
           </div>
         </div>
@@ -70,7 +70,7 @@ class SellForm extends Component {
         </div>
         <div className="mb-5">
           <span className="float-left text-muted">Exchange Rate</span>
-          <span className="float-right text-muted">1 TRCT = {  (1 / this.props.priceStable ) *10**18 }  USDT </span>
+          <span className="float-right text-muted">1 YOUR COIN = {  (1 / this.props.priceStable ) *10**18 }  USDT </span>
         </div>
         <button className="swapButton">SWAP!</button>
       </form>
